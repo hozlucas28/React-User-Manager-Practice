@@ -92,6 +92,9 @@
         <li>
             <a href="https://github.com/hozlucas28/React-Shopping-Cart-Practice-2023" target="_blank">Repository of shopping cart practice</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Interest-Calculator-Practice-2023" target="_blank">Repository of interest calculator practice</a>
+        </li>
     </ul>
 </p>
 
