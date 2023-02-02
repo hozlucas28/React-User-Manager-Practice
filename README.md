@@ -18,13 +18,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=Fdk1VSJ_mLA" target="_blank">
+    <a href="https://react-user-manager-practice-2023.vercel.app/" target="_blank">
         <img src="https://user-images.githubusercontent.com/88015479/212505327-7d65247e-a87e-40cf-a5f4-40aa705787fd.png" width="800">
     </a>
 </p>
 
 <p align="center">
-    <strong>(click on image to see a video preview)</strong>
+    <strong>(click on image to get a live test or watch a <a href="https://www.youtube.com/watch?v=Fdk1VSJ_mLA" target="_blank">video preview</a>)</strong>
 </p>
 
 <h2>
