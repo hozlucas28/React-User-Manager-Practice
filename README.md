@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://react-user-manager-practice-2023.vercel.app/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/88015479/212505327-7d65247e-a87e-40cf-a5f4-40aa705787fd.png" width="800">
+        <img src="./.github/preview.png" width="800">
     </a>
 </p>
 
